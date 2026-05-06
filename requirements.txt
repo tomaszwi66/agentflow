@@ -1,2 +1,3 @@
 crewai
 ddgs
+tavily-python
